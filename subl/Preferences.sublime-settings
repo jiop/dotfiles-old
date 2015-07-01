@@ -1,0 +1,70 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_index": true,
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"RestructuredText",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"new_file_syntax": false,
+	"new_window_settings":
+	{
+		"show_minimap": false
+	},
+	"reraise_exceptions": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"save_on_focus_lost": true,
+	"show_minimap": false,
+	"smart_indent": true,
+	"status_bar_brighter": true,
+	"syntaxes":
+	[
+		{
+			"name": "Ansible/Ansible",
+			"rules":
+			[
+				{
+					"file_name": ".*/tasks/.*.yml$"
+				},
+				{
+					"file_name": ".*/handler/.*.yml$"
+				},
+				{
+					"file_name": ".*/vars/.*.yml$"
+				},
+				{
+					"file_name": ".*/roles/.*.yml$"
+				},
+				{
+					"file_name": ".*/.*ansible.*/.*.yml$"
+				}
+			]
+		}
+	],
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_separator": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
+	"word_wrap": false
+}

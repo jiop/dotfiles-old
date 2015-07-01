@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Ansible",
+		"ApplySyntax",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"Dockerfile Syntax Highlighting",
+		"Git",
+		"GitGutter",
+		"Jinja2",
+		"JSON Reindent",
+		"LoremGibson",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Predawn Twilight Theme",
+		"Restructured Text (RST) Snippets",
+		"RestructuredText Improved",
+		"Ruby on Rails snippets",
+		"SideBarEnhancements",
+		"Siteleaf Liquid Syntax",
+		"Theme - Afterglow",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Unicode Character Highlighter"
+	]
+}
